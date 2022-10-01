@@ -10,7 +10,7 @@ const Hero = () => {
           <h1 className="md:text-5xl text-3xl font-black text-slate-700 mb-3 tracking-wider">
             MOHAMMAD RAIYYAN
           </h1>
-          <h3 className="md:text-2xl text-xl text-slate-700 tracking-wider">
+          <h3 className="md:text-2xl text-xl font-semibold text-slate-700 tracking-wider">
             <Typewriter
               options={{
                 strings: ["Frontend Developer", "Backend Developer"],
